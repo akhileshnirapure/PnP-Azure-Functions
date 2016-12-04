@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="31fd9fd5-e1fa-4a93-b76b-9eaf752408cd" 
+        solutionId="31fd9fd5-e1fa-4a93-b76b-9eaf752408cd" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TenantApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f95d4b27-2820-4c1b-b4c7-44f482488e4d" />
+  </features>
+</package>

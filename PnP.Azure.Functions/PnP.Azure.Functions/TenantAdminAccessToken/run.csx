@@ -2,8 +2,10 @@
 #r "Functions.Core.dll"
 
 
+
 using System.Net;
 using Functions.Core;
+
 
 public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceWriter log)
 {

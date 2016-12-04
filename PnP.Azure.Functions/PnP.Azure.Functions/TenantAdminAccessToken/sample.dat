@@ -1,3 +1,10 @@
 ﻿{
-    "name": "Azure"
+  "Title": "Test1",
+  "Url": "https://iaeadev.sharepoint.com/teams/team1",
+  "Template": "STS#0",
+  "PrimaryOwnerEmail": "admin@iaeadev.onmicrosoft.com",
+  "SecondaryOwnerEmail": "none",
+  "StorageMaximumLevel": 100,
+  "UserCodeMaximumLevel": 100,
+  "TenantName": "iaeadev"
 }

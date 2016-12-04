@@ -171,7 +171,7 @@
   <ItemGroup>
     <Compile Include="SharePointContext.cs" />
     <Compile Include="TokenHelper.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="FunctionIntegrationTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
